@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 22px;
+}
+
+.home-page{
+    background-color:lemonchiffon;
+}
+
+.lasagna-page{
+    background-color: burlywood;
+}
+
+.rib-page{
+    background-color:peru;
+}
+
+.salad-page{
+    background-color:darkseagreen;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+ul,
+ol{
+    display: inline-block;
+}
+
+ul.links{
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+ul,ol.list{
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+a.back{
+    font-weight: bold;
+    font-size: 40px;
+}
+
